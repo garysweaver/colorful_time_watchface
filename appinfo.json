@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "garysweaver@gmail.com",
+    "longName": "Colorful Time",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Colorful Time",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "0586edc6-03da-423b-89d7-9a3969d5caa1",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
